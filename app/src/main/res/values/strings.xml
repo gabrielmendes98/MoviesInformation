@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="name">Dummy text</string>
+    <string name="movie_register">Movie Register</string>
+    <string name="movie_register_sub">What movie would you like to register?</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="search_button">Search</string>
+    <string name="plot">plot</string>
+    <string name="release">released</string>
+    <string name="runtime">runtime</string>
+    <string name="genre">genre</string>
+    <string name="add_button">"   Add to my list"</string>
+</resources>
